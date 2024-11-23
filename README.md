@@ -69,7 +69,6 @@ bash
 Copy code
 git clone https://github.com/YourUsername/MailInspector.git
 cd MailInspector
-pip install -r requirements.txt
 2. Configuration
 To use VirusTotal and AbuseIPDB APIs, add your API keys by replacing Your_API_Here in the script with your valid keys. These services enhance the tool’s capabilities by providing reputation and threat intelligence.
 
@@ -139,3 +138,11 @@ Planned updates include:
 GUI integration for user-friendly interaction.
 Support for additional email file formats.
 Integration with advanced malware analysis tools.
+
+![image](https://github.com/user-attachments/assets/042ff8e5-27f3-40c4-9242-d4fa3cfa075a)
+
+![image](https://github.com/user-attachments/assets/00b508d7-e161-41c5-a028-83215cae7ae8)
+
+
+
+
