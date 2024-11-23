@@ -76,6 +76,7 @@ Suspicious attachments and URLs flagged for review.
 Ensure Python 3.6+ is installed. Clone this repository and install dependencies:
 
 git clone https://github.com/YourUsername/MailInspector.git
+
 cd MailInspector
 
 2. Configuration
