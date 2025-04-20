@@ -75,7 +75,7 @@ Suspicious attachments and URLs flagged for review.
 1. Installation
 Ensure Python 3.6+ is installed. Clone this repository and install dependencies:
 
-git clone https://github.com/YourUsername/MailInspector.git
+git clone https://github.com/mohabye/MailInspector.git
 
 cd MailInspector
 
